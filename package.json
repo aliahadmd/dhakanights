@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "publisher": "ali",
+  "repository": {
+    "url": "https://github.com/aliahadmd/dhakanights"
+},
   "categories": [
     "Themes"
   ],
